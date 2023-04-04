@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555005187369",
+    "project_id": "autherapp-f0595",
+    "storage_bucket": "autherapp-f0595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555005187369:android:4b9e7721946bccbfa05338",
+        "android_client_info": {
+          "package_name": "com.example.auther"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555005187369-mfs9ffaps5gb7nfquishuur346aol3tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9RPzRuzulxYF9i9B51Pm34u8jYy3t_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555005187369-mfs9ffaps5gb7nfquishuur346aol3tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
